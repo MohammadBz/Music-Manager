@@ -1,6 +1,6 @@
 #include <iostream>
 #pragma once
-#include "music.h"
+#include "../models/music.h"
 using namespace std;
 
 class MSparseSet

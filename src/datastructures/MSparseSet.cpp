@@ -1,5 +1,5 @@
 #include <iostream>
-#include "music.h"
+#include "../models/music.h"
 #include "MSparseSet.h"
 using namespace std;
 

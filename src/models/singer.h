@@ -1,7 +1,7 @@
 #include <iostream>
 #pragma once
-#include "MSparseSet.h"
-#include "linkList.h"
+#include "../datastructures/MSparseSet.h"
+#include "../datastructures/linkList.h"
 using namespace std;
 
 class singer

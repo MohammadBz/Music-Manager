@@ -1,5 +1,5 @@
 #include <iostream>
-#include "linkList.h"
+#include "../datastructures/linkList.h"
 #pragma once
 using namespace std;
 

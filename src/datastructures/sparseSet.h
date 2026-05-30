@@ -1,6 +1,6 @@
 #include <iostream>
 #pragma once
-#include "singer.h"
+#include "../models/singer.h"
 #include "MSparseSet.h"
 using namespace std;
 class sparseSet

@@ -3,11 +3,11 @@
 #include <windows.h>
 #define MAX_VAL 50
 #define MAX_CAPACITY 50
-#include "sparseSet.h"
-#include "MSparseSet.h"
-#include "PLSparseSet.h"
+#include "../datastructures/sparseSet.h"
+#include "../datastructures/MSparseSet.h"
+#include "../datastructures/PLSparseSet.h"
 #include "functions.cpp"
-#include "QueueT.h"
+#include "../datastructures/QueueT.h"
 using namespace std;
 
 void help()

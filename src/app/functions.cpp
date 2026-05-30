@@ -1,13 +1,13 @@
 #include <iostream>
 #include <math.h>
-#include "linkList.h"
-#include "music.h"
-#include "singer.h"
-#include "sparseSet.h"
-#include "MSparseSet.h"
-#include "PLSparseSet.h"
-#include "playlist.h"
-#include "QueueT.h"
+#include "../datastructures/linkList.h"
+#include "../models/music.h"
+#include "../models/singer.h"
+#include "../datastructures/sparseSet.h"
+#include "../datastructures/MSparseSet.h"
+#include "../datastructures/PLSparseSet.h"
+#include "../models/playList.h"
+#include "../datastructures/QueueT.h"
 using namespace std;
 
 string extractWordAfterIndex(string input, int index)

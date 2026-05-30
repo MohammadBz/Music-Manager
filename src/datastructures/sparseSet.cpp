@@ -1,6 +1,6 @@
 #include <iostream>
 #include "sparseSet.h"
-#include "singer.h"
+#include "../models/singer.h"
 #include "MSparseSet.h"
 using namespace std;
 sparseSet::sparseSet(int maxVal, int Capacity)
